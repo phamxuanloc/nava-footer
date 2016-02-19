@@ -1,0 +1,20 @@
+{
+	"name" : "phamxuanloc/nava-footer",
+	"description" : "footer",
+	"authors" : [
+		{
+			"email":"loc.xuanphama1t1@gmail.com",
+			"name": "Phamxuanloc"
+		}
+	],
+	"require" : {
+		"php" : ">=5.4.0",
+		"yiisoft/yii2" : "^2.0",
+		"yiisoft/yii2-bootstrap" : "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"phamxuanloc\footer": ""
+		}
+	}
+}
