@@ -3,8 +3,8 @@
 	"description" : "footer",
 	"authors" : [
 		{
-			"email":"loc.xuanphama1t1@gmail.com",
-			"name": "Phamxuanloc"
+			"email" : "loc.xuanphama1t1@gmail.com",
+			"name" : "Phamxuanloc"
 		}
 	],
 	"require" : {
@@ -12,9 +12,9 @@
 		"yiisoft/yii2" : "^2.0",
 		"yiisoft/yii2-bootstrap" : "*"
 	},
-	"autoload": {
-		"psr-4": {
-			"phamxuanloc\\footer\\": ""
+	"autoload" : {
+		"psr-4" : {
+			"phamxuanloc\\footer\\" : ""
 		}
 	}
 }
